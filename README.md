@@ -23,6 +23,7 @@ pip install djangorestframework
 ```
 ### Fork repository and add files 
 Copy files from repostiory and add files inside virtual env.
-
+project folder : orderapi
+project app : ordersapi
 
 
