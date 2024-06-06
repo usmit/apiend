@@ -22,7 +22,7 @@ pip install django
 pip install djangorestframework
 ```
 ### Fork repository and add files 
-
+Copy files from repostiory and add files inside virtual env.
 
 
 
