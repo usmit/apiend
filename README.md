@@ -6,7 +6,7 @@ API end point for order processing
 ``` 
 pip3 install virtualenv
 ```
-### Create new folder, Cd to it and then create create virtual environment :
+### Create new folder, navigate to it and then create create virtual environment :
 ```
 mkdir newproject
 cd newproject
@@ -22,8 +22,7 @@ pip install django
 pip install djangorestframework
 ```
 ### Fork repository and add files 
-Copy files from repostiory and add files inside virtual env.
-project folder : **orderapi**
-project app : **ordersapi**
+Copy files from repostiory and add files inside virtual env.<br>
+project folder : **orderapi** <br>                               project app : **ordersapi**
 
 
