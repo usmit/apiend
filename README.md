@@ -25,4 +25,5 @@ pip install djangorestframework
 Copy files from repostiory and add files inside virtual env.<br>
 project folder : **orderapi** <br>                               project app : **ordersapi**
 
+### Define Models in models.py file 
 
